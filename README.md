@@ -20,7 +20,7 @@ In order to update anaconda,use the following command
 ## Clone the repo
 The repository should be cloned using 
 ```sh
-git clone https://github.com/DhivyaSriLingala/EGN6216---AI-Systems-Dhivya-Sri-Lingala.git
+git clone https://github.com/nvshreya19/EmotionalRecognition
 ```
 ## Understanding all the files
 Inside the Emowise Folder in our repository you will find 2 folders 
